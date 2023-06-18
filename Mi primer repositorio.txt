@@ -1,3 +1,4 @@
 Lucas Callasuca.
 Esta es un segundo commit de este archivo que servira para confirmar mis dudas sobre lo que hice 
 siguiendo los pasos de los videos.
+Resulta que lo entendi correctamente.No hay dudas.
