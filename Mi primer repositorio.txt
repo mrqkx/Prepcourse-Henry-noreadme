@@ -1,5 +1,3 @@
 Lucas Callasuca.
-Listo estoy para poder pelear, victoria tendre, juega niño.
-El poder nuestro es.Hoy seremos dragon ball Z.
-Procura llegar al final y luchar con valor.
-En los campos deja las flores crecer feliz.
+Esta es un segundo commit de este archivo que servira para confirmar mis dudas sobre lo que hice 
+siguiendo los pasos de los videos.
